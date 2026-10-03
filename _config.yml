@@ -1,0 +1,6 @@
+title: Netcord
+description: Every stroke named. Every point scored. A tennis tracker and coach for iPhone, Apple Watch and Garmin.
+url: https://liniker-seixas.github.io
+baseurl: /netcord
+exclude:
+  - README.md
