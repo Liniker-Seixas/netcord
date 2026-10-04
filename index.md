@@ -7,9 +7,9 @@ permalink: /
 
 # Every stroke named. Every point scored.
 
-<p class="lede">Netcord is a tennis tracker and coach with a broadcast look. Film a match with your iPhone and it maps every player and names every stroke. Wear an Apple Watch or a Garmin and every swing is counted too. Score live with full tennis rules and get TV-style match stats after every match.</p>
+<p class="lede">Netcord is a tennis tracker and coach with a broadcast look. Film a match with your iPhone and it maps every player and names their strokes. Wear an Apple Watch and every swing is counted too; Garmin tennis workouts come in through Apple Health. Score live with full tennis rules and get TV-style match stats after every match.</p>
 
-There is no account and no server: your matches, heart rate and court positions stay on your devices. Netcord is in beta on TestFlight.
+There is no account and no server: your matches, heart rate and court positions stay on your devices, and your settings and profile sync through your own iCloud. Netcord runs on iPhone, with an optional Apple Watch app.
 
 <div class="cards">
   <a class="card" href="{{ site.baseurl }}/privacy/"><strong>Privacy policy</strong><span>What Netcord processes, and why it stays on your devices.</span></a>
