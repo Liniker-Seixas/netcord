@@ -43,11 +43,11 @@ Matches arrive while Netcord is open on your iPhone. If it was closed, the Garmi
 
 ## How do I bring in workouts from other watches?
 
-In Settings, Garmin & other watches, turn on Import from Apple Health and allow access. Tennis workouts that Garmin Connect or other apps save to Apple Health then appear in Netcord, or add heart rate and calories to the match they record. In Garmin Connect, turn on sharing with Apple Health first.
+In Settings, Garmin & other watches, turn on Import from Apple Health and allow access. Tennis workouts that Garmin Connect or other apps save to Apple Health then appear in Netcord, or add heart rate and calories to the match they record. In Garmin Connect, turn on sharing with Apple Health first. Imported workouts stay on this iPhone and don't go to iCloud; turn the import on on a new iPhone to bring them in again.
 
 ## How do I move to a new iPhone?
 
-If you're signed in to iCloud, your settings, your profile (all but gender, birth year and height) and your photo follow you automatically. For your sessions, Settings, iCloud & backup, Back up everything saves your sessions, profile, photo and settings as one file; on the new iPhone use Restore from a backup. Quick Start and iCloud device backups carry Netcord along too.
+If you're signed in to iCloud, Sync with iCloud is on by default: your matches, Court Cam maps, settings, profile (all but gender, birth year and height) and photo sync through your own iCloud, and a new iPhone signed in to the same Apple ID gets them back when Netcord opens. Matches live in Netcord's own private folder in your iCloud Drive, which the Files app doesn't show, so iCloud Drive needs to be on. Heart rate, calories and distance come back from your Apple Watch's workouts in Apple Health; a Garmin match gets them back only if Garmin Connect shares its workouts with Apple Health and Import from Apple Health is on. Step counts don't come back. Without iCloud, Settings, iCloud & backup, Back up everything makes one file, and Restore from a backup reads it on the new iPhone.
 
 ## How do I export my data?
 
@@ -55,7 +55,7 @@ Settings, iCloud & backup, Back up everything saves your sessions, profile, phot
 
 ## How do I delete my data?
 
-Settings, Data, Delete all sessions removes your matches from your iPhone. Deleting the app removes what it stored on your devices, but not Netcord's copy of your settings and profile in your iCloud: to remove that, turn off Sync with iCloud in Settings, iCloud & backup before you delete the app. Workouts saved to Apple Health stay in the Health app until you delete them there.
+Deleting a session removes it, with its Court Cam recording, from this iPhone and, with sync on, from your iCloud and from your other iPhones with sync on. Settings, Data, Delete all sessions does that for every session, including ones in iCloud not yet on this iPhone. Deleting the app doesn't remove Netcord's copies in your iCloud: turn off Sync with iCloud first (Netcord asks before removing them). Workouts saved to Apple Health stay in the Health app until you delete them there.
 
 ## Is Netcord a medical device?
 
